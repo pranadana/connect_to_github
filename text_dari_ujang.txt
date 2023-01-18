@@ -3,3 +3,22 @@ ini text dari branch ujang
 tambahan text dari si ujang
 
 text ini ditambahkan secara langsung di web github
+
+1. Baim, Rehan, Wahjoe
+2. iyus, raviyan, adit
+3. agus, muzie, fakhri
+4. dayat, afi, arfan
+5. daffa, arya, mujahid
+6. amar, aldi, akbar
+7. azra, risky, maul
+8. rokhim, jidan, adam
+
+
+2
+1
+4
+6
+7
+3
+5
+8
